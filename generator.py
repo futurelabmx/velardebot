@@ -1,7 +1,7 @@
 import markovify
 
 
-def generate_model(filename, size=3):
+def generate_model(filename, size=2):
     """Model generator from text."""
 
     # We read whole document:
